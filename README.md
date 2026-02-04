@@ -19,8 +19,7 @@ The full background, design decisions, and troubleshooting notes are documented 
 - Spotify Web API (Spotipy)
 
 ## Full write-up
-👉 Read the full build story and setup guide on Medium:  
-*(link coming soon)*
+👉 [Read the full write-up on Medium](https://medium.com/@bianca.liebhaber/how-i-built-a-slack-bot-to-crowdsource-music-and-survived-corporate-ssl-ce672116b6c9)
 
 ## Status
 This project is a personal learning project and is not production-hardened.
